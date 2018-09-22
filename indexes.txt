@@ -1,0 +1,3 @@
+Indexes built:
+
+db.activity.createIndex({full_name: "text"})
